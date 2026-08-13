@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Sitemap: https://vosstanovim-dnr.ru/sitemap.xml
+
+User-agent: Yandex
+Allow: /
+Crawl-delay: 2
+Sitemap: https://vosstanovim-dnr.ru/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+Sitemap: https://vosstanovim-dnr.ru/sitemap.xml
