@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://vosstanovim-dnr.ru/nsk/</loc><priority>1.0</priority></url>
-  <url><loc>https://vosstanovim-dnr.ru/nsk/stroitel.html</loc><priority>0.8</priority></url>
-  <url><loc>https://vosstanovim-dnr.ru/nsk/raznorabochiy.html</loc><priority>0.8</priority></url>
-  <url><loc>https://vosstanovim-dnr.ru/nsk/okhrannik.html</loc><priority>0.8</priority></url>
-  <url><loc>https://vosstanovim-dnr.ru/nsk/voditel.html</loc><priority>0.8</priority></url>
-  <url><loc>https://vosstanovim-dnr.ru/nsk/medrabotnik.html</loc><priority>0.8</priority></url>
-  <url><loc>https://vosstanovim-dnr.ru/nsk/inzhener-svyazi.html</loc><priority>0.8</priority></url>
+  <url><loc>https://fruit-exchange.github.io/vosstanovim-nsk/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://fruit-exchange.github.io/vosstanovim-nsk/stroitel.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://fruit-exchange.github.io/vosstanovim-nsk/raznorabochiy.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://fruit-exchange.github.io/vosstanovim-nsk/okhrannik.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://fruit-exchange.github.io/vosstanovim-nsk/voditel.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://fruit-exchange.github.io/vosstanovim-nsk/medrabotnik.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://fruit-exchange.github.io/vosstanovim-nsk/inzhener-svyazi.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
 </urlset>
